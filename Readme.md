@@ -125,8 +125,6 @@ The Analysis tab provides comparative analysis features:
 
 If you use this code, please cite the associated paper:
 
-> Author(s), “Title of the paper,” Conference/Journal, Year.
-
 (A BibTeX entry will be added after publication.)
 
 
@@ -145,3 +143,4 @@ This repository is shared for academic and research use.
 
 For questions related to this repository or the CRC paper, please contact:
 Kumar Adarsh – Deepakadarshstar@gmail.om
+
