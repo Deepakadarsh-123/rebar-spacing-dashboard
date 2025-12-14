@@ -1,0 +1,14 @@
+# Core Dependencies
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=0.24.0
+
+# 3D Point Cloud Processing
+open3d>=0.13.0
+
+# Web Dashboard
+dash>=2.0.0
+plotly>=5.0.0
+
+# Additional Utilities
+kaleido>=0.2.1
