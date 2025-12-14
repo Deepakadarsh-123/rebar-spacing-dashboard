@@ -4,6 +4,7 @@ A tool for automated analysis of rebar spacing from 3D point cloud data (PLY fil
 The application uses clustering-based layer separation, PCA-based alignment, and 
 histogram-based peak detection to identify and measure rebar spacing in construction elements.
 
+A Sample ply file of Non-OHE U-Girder side wall is added in this repository for testing the dashboard. The same file may be used to the dashboard functionality.
 
 ## Features
 
@@ -145,6 +146,7 @@ This repository is shared for academic and research use.
 
 For questions related to this repository or the CRC paper, please contact:
 Kumar Adarsh – Deepakadarshstar@gmail.om
+
 
 
 
