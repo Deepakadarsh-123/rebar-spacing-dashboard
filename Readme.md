@@ -13,6 +13,8 @@ histogram-based peak detection to identify and measure rebar spacing in construc
 - **Spacing Measurement**: Automated calculation of inter-rebar spacing from reconstructed point clouds
 - **3D Visualization**: Integrated Open3D viewer for point cloud inspection
 - **Export Capabilities**: Analysis logging and data export functionality
+- 
+**Please note that the code contains a dia. analysis part too. PLease ignore that as the same hasn't been tested.**
 
 ## System Requirements
 
@@ -143,4 +145,5 @@ This repository is shared for academic and research use.
 
 For questions related to this repository or the CRC paper, please contact:
 Kumar Adarsh – Deepakadarshstar@gmail.om
+
 
